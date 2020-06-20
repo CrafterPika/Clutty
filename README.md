@@ -1,9 +1,10 @@
 # Clutty
 My first tweak i ever wrote :)
 
-# Feature
+# Features
 - Clear Dock Background
 - Make App instalation Progress bard lighter
+- Set Status Bar to  (Apple Logo you can't see on Windows/Linux)
 - Configure Tweak in settings
 
 # To-Do

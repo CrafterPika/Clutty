@@ -24,3 +24,19 @@
 	}
 }
 %end
+
+%hook _UIStatusBarStringView
+-(void)setText:(id)arg1{
+
+	NSDictionary *bundleDefaults = [[NSUserDefaults standardUserDefaults] persistentDomainForName:@"io.crafterpika.cluttyprefs"];
+	
+	id StatusBar2Apple = [bundleDefaults valueForKey:@"StatusBar2Apple"];
+	if ([StatusBar2Apple isEqual:@0]){
+		%orig;
+	} else{
+		%orig(@"");
+	}
+}
+%end
+
+	
