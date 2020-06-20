@@ -6,9 +6,8 @@
 	if ([ClearDock isEqual:@0]){
 		//Nothing Will Happen
 	} else{
-		%orig(0.0);
+		%orig(0.0);s
 	}
-
 }
 %end
 
