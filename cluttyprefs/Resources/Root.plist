@@ -32,7 +32,7 @@
 			<key>key</key>
 			<string>AppProgressBar</string>
 			<key>label</key>
-			<string>App Progress bar Lighter.</string>
+			<string>App-Inst Progress Lighter.</string>
 		</dict>
 		<dict>
 			<key>cell</key>

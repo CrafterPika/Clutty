@@ -10,5 +10,5 @@ Clutty_FILES = Clutty.x
 Clutty_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
-SUBPROJECTS += clutty
+SUBPROJECTS += cluttyprefs
 include $(THEOS_MAKE_PATH)/aggregate.mk
