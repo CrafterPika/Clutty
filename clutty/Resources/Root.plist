@@ -16,7 +16,7 @@
 			<key>default</key>
 			<true/>
 			<key>defaults</key>
-			<string>io.crafterpika.cluttyprefs-dock</string>
+			<string>io.crafterpika.cluttyprefs</string>
 			<key>key</key>
 			<string>ClearDock</string>
 			<key>label</key>
@@ -28,7 +28,7 @@
 			<key>default</key>
 			<true/>
 			<key>defaults</key>
-			<string>io.crafterpika.cluttyprefs-progress</string>
+			<string>io.crafterpika.cluttyprefs</string>
 			<key>key</key>
 			<string>AppProgressBar</string>
 			<key>label</key>
