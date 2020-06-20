@@ -6,7 +6,7 @@ My first tweak i ever wrote :)
 - Make App instalation Progress bard lighter
 
 # To-Do
-- Add More featureTM
+- Add More featuresTM
 - Configurations
 
 # Compiling
