@@ -55,8 +55,10 @@
 		<dict>
 			<key>cell</key>
 			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
 			<key>label</key>
-			<string>Follow Me On Twitter</string>
+			<string>Twitter (@CrafterPika)</string>
 			<key>action</key>
 			<string>FollowTW</string>
 		</dict>
