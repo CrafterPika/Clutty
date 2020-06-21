@@ -71,11 +71,13 @@
 			<string>respring</string>
 		</dict>
 		<dict>
-			<key>cell</key>
-			<string>PSGroupCell</string>
-			<key>label</key>
-			<string>Ⓒ CrafterPIka 2020</string>
-		</dict>
+            <key>footerAlignment</key>
+            <string>1</string>
+            <key>cell</key>
+            <string>PSGroupCell</string>
+            <key>footerText</key>
+            <string>© CrafterPika 2020</string>
+        </dict>
 	</array>
 	<key>title</key>
 	<string>Clutty</string>
