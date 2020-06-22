@@ -24,4 +24,11 @@
     posix_spawn(&pid, "/usr/bin/killall", NULL, NULL, (char* const*)args, NULL);
 }
 
+-(void)openGithub {
+	[[UIApplication sharedApplication]
+	openURL:[NSURL URLWithString:@"https://github.com/CrafterPika/Clutty"]
+	options:@{}
+	completionHandler:nil];
+}
+
 @end

@@ -1,7 +1,7 @@
 Package: io.crafterpika.clutty
 Name: Clutty
 Depends: mobilesubstrate
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Description: do i have an live? Probably not.
 Maintainer: CrafterPika
