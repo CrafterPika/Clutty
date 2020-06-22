@@ -64,7 +64,7 @@
 			<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>label</key>
-			<string>Social</string>
+			<string>Links</string>
 		</dict>
 		<dict>
 			<key>cell</key>
