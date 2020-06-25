@@ -62,14 +62,6 @@
 			<key>isDestructive</key>
 			<string>YES</string>
 			<key>confirmation</key>
-			<dict>
-				<key>prompt</key>
-				<string>This will relaunch SpringBoard and close all running applications.</string>
-				<key>cancelTitle</key>
-				<string>Cancel</string>
-				<key>title</key>
-				<string>Restart Springboard</string>
-			</dict>
 		</dict>
 		<dict>
 			<key>cell</key>
