@@ -6,7 +6,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = Clutty
 
-Clutty_FILES = Clutty.x
+Clutty_FILES = Tweak.xm
 Clutty_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
