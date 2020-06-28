@@ -1,5 +1,3 @@
-#import "Tweak.h"
-
 %hook SBDockView
 -(void)setBackgroundAlpha:(double)arg1{
 	NSDictionary *bundleDefaults = [[NSUserDefaults standardUserDefaults] persistentDomainForName:@"io.crafterpika.cluttyprefs"];
