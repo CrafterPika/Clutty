@@ -1,3 +1,4 @@
+PACKAGE_VERSION = 0.1.3
 INSTALL_TARGET_PROCESSES = SpringBoard
 ARCHS = armv7 armv7s arm64 arm64e
 DEBUG = 0
